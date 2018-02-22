@@ -7,3 +7,6 @@ list of 5 news agencies and stores the compound tweets as a list in a dictionary
 
 As for the API key, it is stored in a separate file call "apikeys", which is imported as a dependency.  So to run the program, please be 
 aware of this feature.  Thank you.
+
+![](/SocialAPI_BarPlot.png)
+![](/SocialAPI_ScatterPlot.png)
