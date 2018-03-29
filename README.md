@@ -1,4 +1,4 @@
-## Unit 7 | Assignment - Twitter VADER sentiment analysis (News outlets)
+## Unit 7 | Twitter VADER sentiment analysis (News outlets)
 
 Skills Tested: Python, Twitter API calls (via Tweepy), Arrays/Loops, Matplotlib, Pandas
 
